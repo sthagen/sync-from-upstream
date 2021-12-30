@@ -7,6 +7,7 @@
 * [lua](https://github.com/sthagen/lua-lua/)
 * [nim](https://github.com/sthagen/nim-lang-Nim/)
 * [python](https://github.com/sthagen/python-cpython/)
+* [ruby](https://github.com/sthagen/ruby-ruby/)
 * [rust](https://github.com/sthagen/rust-lang-rust/)
 * [scala3 a.k.a. dotty](https://github.com/sthagen/lampepfl-dotty/)
 * [v](https://github.com/sthagen/vlang-v/)
