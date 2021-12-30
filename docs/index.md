@@ -26,6 +26,7 @@
 ## build tools
 
 * [cmake](https://github.com/sthagen/Kitware-CMake/)
+* [conan](https://github.com/sthagen/conan-io-conan/)
 * [ninja](https://github.com/sthagen/ninja-build-ninja/)
 * [sbt](https://github.com/sthagen/sbt-sbt/)
 *  ...
