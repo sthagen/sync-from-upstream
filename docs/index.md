@@ -3,6 +3,7 @@
 * [crystal](https://github.com/sthagen/crystal-lang-crystal/)
 * [elixir](https://github.com/sthagen/elixir-lang-elixir/)
 * [erlang](https://github.com/sthagen/erlang-otp/)
+* [gleam](https://github.com/sthagen/gleam-lang-gleam/)
 * [go](https://github.com/sthagen/golang-go/)
 * [lua](https://github.com/sthagen/lua-lua/)
 * [nim](https://github.com/sthagen/nim-lang-Nim/)
