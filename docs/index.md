@@ -26,6 +26,7 @@
 ## databses
 
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
+* [sqlite](https://github.com/sthagen/sqlite-sqlite/)
 *  ...
 
 ## database drivers
