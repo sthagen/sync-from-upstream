@@ -1,6 +1,7 @@
 # sync-from-upstream
 
 * [crystal](https://github.com/sthagen/crystal-lang-crystal/)
+* [dart sdk](https://github.com/sthagen/dart-lang-sdk/)
 * [elixir](https://github.com/sthagen/elixir-lang-elixir/)
 * [erlang](https://github.com/sthagen/erlang-otp/)
 * [gleam](https://github.com/sthagen/gleam-lang-gleam/)
