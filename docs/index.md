@@ -26,6 +26,7 @@
 ## language construction
 
 * [antlr](https://github.com/sthagen/antlr-antlr4/)
+* [pyparsing](https://github.com/sthagen/pyparsing-pyparsing/)
 *  ...
 
 ## databses
