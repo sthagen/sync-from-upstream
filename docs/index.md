@@ -37,6 +37,7 @@
 * [postgres](https://github.com/sthagen/postgres-postgres/)
 * [rocksdb](https://github.com/sthagen/facebook-rocksdb/)
 * [sqlite](https://github.com/sthagen/sqlite-sqlite/)
+* [tidb](https://github.com/sthagen/pingcap-tidb/)
 *  ...
 
 ## database drivers
