@@ -25,6 +25,7 @@
 
 ## build tools
 
+* [cmake](https://github.com/sthagen/Kitware-CMake/)
 * [sbt](https://github.com/sthagen/sbt-sbt/)
 *  ...
 
