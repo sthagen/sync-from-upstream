@@ -23,6 +23,11 @@
 * [llvm](https://github.com/sthagen/llvm-llvm-project/)
 *  ...
 
+## language construction
+
+* [antlr](https://github.com/sthagen/antlr-antlr4/)
+*  ...
+
 ## databses
 
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
