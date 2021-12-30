@@ -26,6 +26,7 @@
 ## databses
 
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
+* [postgres](https://github.com/sthagen/postgres-postgres/)
 * [sqlite](https://github.com/sthagen/sqlite-sqlite/)
 *  ...
 
