@@ -20,6 +20,7 @@
 
 ## compilers
 
+* [emscripten](https://github.com/sthagen/emscripten-core-emscripten)
 * [llvm](https://github.com/sthagen/llvm-llvm-project/)
 * [nuitka](https://github.com/sthagen/Nuitka-Nuitka/)
 *  ...
