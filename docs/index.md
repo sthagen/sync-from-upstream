@@ -25,6 +25,7 @@
 
 ## build tools
 
+* [bazel](https://github.com/sthagen/bazelbuild-bazel/)
 * [cmake](https://github.com/sthagen/Kitware-CMake/)
 * [conan](https://github.com/sthagen/conan-io-conan/)
 * [ninja](https://github.com/sthagen/ninja-build-ninja/)
