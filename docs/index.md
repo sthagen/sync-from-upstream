@@ -33,6 +33,7 @@
 
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
 * [postgres](https://github.com/sthagen/postgres-postgres/)
+* [rocksdb](https://github.com/sthagen/facebook-rocksdb/)
 * [sqlite](https://github.com/sthagen/sqlite-sqlite/)
 *  ...
 
