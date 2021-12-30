@@ -47,6 +47,7 @@
 
 ### CSAF
 
+* [csaf-distribution](https://github.com/sthagen/csaf-poc-csaf_distribution/)
 * [cvrf-csaf-converter](https://github.com/sthagen/csaf-tools-CVRF-CSAF-Converter/)
 * [secvisogram](https://github.com/sthagen/secvisogram-secvisogram/)
 *  ...
