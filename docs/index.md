@@ -31,6 +31,7 @@
 
 ## databses
 
+* [cockroach](https://github.com/sthagen/cockroachdb-cockroach/)
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
 * [immudb](https://github.com/sthagen/codenotary-immudb/)
 * [postgres](https://github.com/sthagen/postgres-postgres/)
