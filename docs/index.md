@@ -27,3 +27,8 @@
 
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
 *  ...
+
+## database drivers
+
+* [edgedeb-python](https://github.com/sthagen/edgedb-edgedb-python/)
+*  ...
