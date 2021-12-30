@@ -42,3 +42,10 @@
 
 * [edgedeb-python](https://github.com/sthagen/edgedb-edgedb-python/)
 *  ...
+
+## specifications
+
+### CSAF
+
+* [secvisogram](https://github.com/sthagen/secvisogram-secvisogram/)
+*  ...
