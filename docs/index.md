@@ -1,7 +1,8 @@
 # sync-from-upstream
 
-* [erlang](https://github.com/sthagen/erlang-otp/)
+* [crystal](https://github.com/sthagen/crystal-lang-crystal/)
 * [elixir](https://github.com/sthagen/elixir-lang-elixir/)
+* [erlang](https://github.com/sthagen/erlang-otp/)
 * [go](https://github.com/sthagen/golang-go/)
 * [lua](https://github.com/sthagen/lua-lua/)
 * [python](https://github.com/sthagen/python-cpython/)
