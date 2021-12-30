@@ -22,3 +22,8 @@
 
 * [llvm](https://github.com/sthagen/llvm-llvm-project/)
 *  ...
+
+## databses
+
+* [edgedb](https://github.com/sthagen/edgedb-edgedb/)
+*  ...
