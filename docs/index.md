@@ -5,6 +5,7 @@
 * [erlang](https://github.com/sthagen/erlang-otp/)
 * [go](https://github.com/sthagen/golang-go/)
 * [lua](https://github.com/sthagen/lua-lua/)
+* [nim](https://github.com/sthagen/nim-lang-Nim/)
 * [python](https://github.com/sthagen/python-cpython/)
 * [rust](https://github.com/sthagen/rust-lang-rust/)
 * [scala3 a.k.a. dotty](https://github.com/sthagen/lampepfl-dotty/)
