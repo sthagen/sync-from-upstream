@@ -5,6 +5,7 @@
 * [erlang](https://github.com/sthagen/erlang-otp/)
 * [gleam](https://github.com/sthagen/gleam-lang-gleam/)
 * [go](https://github.com/sthagen/golang-go/)
+* [haskell a.k.a. ghc](https://github.com/sthagen/ghc-ghc/)
 * [lua](https://github.com/sthagen/lua-lua/)
 * [nim](https://github.com/sthagen/nim-lang-Nim/)
 * [python](https://github.com/sthagen/python-cpython/)
