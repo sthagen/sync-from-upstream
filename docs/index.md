@@ -31,6 +31,7 @@
 
 ## databses
 
+* [bbolt](https://github.com/sthagen/etcd-io-bbolt/)
 * [cockroach](https://github.com/sthagen/cockroachdb-cockroach/)
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
 * [immudb](https://github.com/sthagen/codenotary-immudb/)
