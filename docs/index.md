@@ -34,6 +34,7 @@
 * [bbolt](https://github.com/sthagen/etcd-io-bbolt/)
 * [cockroach](https://github.com/sthagen/cockroachdb-cockroach/)
 * [edgedb](https://github.com/sthagen/edgedb-edgedb/)
+* [ferretdb](https://github.com/sthagen/FerretDB-FerretDB/)
 * [immudb](https://github.com/sthagen/codenotary-immudb/)
 * [influxdb](https://github.com/sthagen/influxdata-influxdb/)
 * [postgres](https://github.com/sthagen/postgres-postgres/)
