@@ -29,6 +29,8 @@
 * [bazel](https://github.com/sthagen/bazelbuild-bazel/)
 * [cmake](https://github.com/sthagen/Kitware-CMake/)
 * [conan](https://github.com/sthagen/conan-io-conan/)
+* [drone[(https://github.com/sthagen/drone-drone)
+* [jenkins](https://github.com/sthagen/jenkins-jenkins)
 * [meson](https://github.com/sthagen/mesonbuild-meson/)
 * [ninja](https://github.com/sthagen/ninja-build-ninja/)
 * [sbt](https://github.com/sthagen/sbt-sbt/)
@@ -40,7 +42,7 @@
 * [pyparsing](https://github.com/sthagen/pyparsing-pyparsing/)
 *  ...
 
-## databses
+## databases
 
 * [bbolt](https://github.com/sthagen/etcd-io-bbolt/)
 * [cockroach](https://github.com/sthagen/cockroachdb-cockroach/)
