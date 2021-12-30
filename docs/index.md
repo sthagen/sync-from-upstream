@@ -63,11 +63,14 @@
 * [edgedeb-python](https://github.com/sthagen/edgedb-edgedb-python/)
 *  ...
 
-## specifications
+## specifications and tools
 
 ### CSAF
 
+* [csaf (spec)](https://github.com/sthagen/oasis-tcs-csaf/)
 * [csaf-distribution](https://github.com/sthagen/csaf-poc-csaf_distribution/)
+* [csaf-parser (cvrf era)](https://github.com/sthagen/oasis-open-csaf-parser/)
 * [cvrf-csaf-converter](https://github.com/sthagen/csaf-tools-CVRF-CSAF-Converter/)
 * [secvisogram](https://github.com/sthagen/secvisogram-secvisogram/)
+* [turvallisuusneuvonta](https://github.com/sthagen/turvallisuusneuvonta/)
 *  ...
