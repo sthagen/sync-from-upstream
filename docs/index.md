@@ -23,6 +23,11 @@
 * [llvm](https://github.com/sthagen/llvm-llvm-project/)
 *  ...
 
+## build tools
+
+* [sbt](https://github.com/sthagen/sbt-sbt/)
+*  ...
+
 ## language construction
 
 * [antlr](https://github.com/sthagen/antlr-antlr4/)
