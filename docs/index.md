@@ -21,6 +21,7 @@
 ## compilers
 
 * [llvm](https://github.com/sthagen/llvm-llvm-project/)
+* [nuitka](https://github.com/sthagen/Nuitka-Nuitka/)
 *  ...
 
 ## build tools
