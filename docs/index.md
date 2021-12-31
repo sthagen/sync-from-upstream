@@ -58,10 +58,15 @@
 * [tidb](https://github.com/sthagen/pingcap-tidb/)
 *  ...
 
-## database drivers
+### database drivers
 
 * [edgedeb-python](https://github.com/sthagen/edgedb-edgedb-python/)
 *  ...
+
+### database adapters
+
+* [pottery python-redis](https://github.com/sthagen/brainix-pottery/)
+* ...
 
 ## inter language operations
 
