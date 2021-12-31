@@ -25,6 +25,11 @@
 * [nuitka](https://github.com/sthagen/Nuitka-Nuitka/)
 *  ...
 
+## binary optimizers
+
+* [bolt linux tageting llvm inclusion](https://github.com/sthagen/facebookincubator-BOLT/)
+* ...
+
 ## profilers
 
 * [coz for aot compiled languages using perf and python 3](https://github.com/sthagen/plasma-umass-coz/)
