@@ -78,6 +78,11 @@
 * [dearpygui](https://github.com/sthagen/hoffstadt-DearPyGui/)
 * ...
 
+## static code analysis
+
+* [cobra](https://github.com/sthagen/nimble-code-Cobra/)
+* ...
+
 ## test
 
 ### property based test
