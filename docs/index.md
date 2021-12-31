@@ -63,6 +63,11 @@
 * [edgedeb-python](https://github.com/sthagen/edgedb-edgedb-python/)
 *  ...
 
+## inter language operations
+
+* [scala-rust per jni](https://github.com/sthagen/sideeffffect-scala-rust-interop/)
+*  ...
+
 ## specifications and tools
 
 ### CSAF
