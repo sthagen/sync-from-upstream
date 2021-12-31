@@ -68,6 +68,11 @@
 * [scala-rust per jni](https://github.com/sthagen/sideeffffect-scala-rust-interop/)
 *  ...
 
+## immediate mode gui
+
+* [dearpygui](https://github.com/sthagen/hoffstadt-DearPyGui/)
+* ...
+
 ## specifications and tools
 
 ### CSAF
