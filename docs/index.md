@@ -116,3 +116,10 @@
 * [secvisogram](https://github.com/sthagen/secvisogram-secvisogram/)
 * [turvallisuusneuvonta](https://github.com/sthagen/turvallisuusneuvonta/)
 *  ...
+
+## libraries
+
+### crypto
+
+* [openssl tls and crypto in c](https://github.com/sthagen/openssl-openssl/)
+* ...
