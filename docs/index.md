@@ -8,23 +8,28 @@
 * [erlang](https://github.com/sthagen/erlang-otp/)
 * [gleam](https://github.com/sthagen/gleam-lang-gleam/)
 * [go](https://github.com/sthagen/golang-go/)
-* [haskell a.k.a. ghc](https://github.com/sthagen/ghc-ghc/)
 * [lua](https://github.com/sthagen/lua-lua/)
 * [nim](https://github.com/sthagen/nim-lang-Nim/)
 * [python](https://github.com/sthagen/python-cpython/)
 * [ruby](https://github.com/sthagen/ruby-ruby/)
 * [rust](https://github.com/sthagen/rust-lang-rust/)
-* [scala3 a.k.a. dotty](https://github.com/sthagen/lampepfl-dotty/)
 * [v](https://github.com/sthagen/vlang-v/)
 * ...
 
 ## compilers
 
+* [dotty scala3](https://github.com/sthagen/lampepfl-dotty/)
 * [emscripten](https://github.com/sthagen/emscripten-core-emscripten)
+* [ghc haskell](https://github.com/sthagen/ghc-ghc/)
 * [llvm](https://github.com/sthagen/llvm-llvm-project/)
 * [nuitka](https://github.com/sthagen/Nuitka-Nuitka/)
 * [scala native](https://github.com/sthagen/scala-native-scala-native/)
 *  ...
+
+## interpreters
+
+* [rustpython](https://github.com/sthagen/RustPython-RustPython/)
+* ...
 
 ## binary optimizers
 
