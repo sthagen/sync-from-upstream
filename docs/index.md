@@ -92,6 +92,7 @@
 ## static code analysis
 
 * [cobra](https://github.com/sthagen/nimble-code-Cobra/)
+* [pmd](https://github.com/sthagen/pmd-pmd/)
 * ...
 
 ## test
