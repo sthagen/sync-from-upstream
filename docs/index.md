@@ -33,7 +33,6 @@
 
 ## binary optimizers
 
-* [bolt linux tageting llvm inclusion](https://github.com/sthagen/facebookincubator-BOLT/)
 * ...
 
 ## profilers
