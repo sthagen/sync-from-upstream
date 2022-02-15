@@ -14,6 +14,7 @@
 * [ruby](https://github.com/sthagen/ruby-ruby/)
 * [rust](https://github.com/sthagen/rust-lang-rust/)
 * [v](https://github.com/sthagen/vlang-v/)
+* [zig](https://github.com/sthagen/ziglang-zig/)
 * ...
 
 ## compilers
