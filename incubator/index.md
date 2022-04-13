@@ -18,6 +18,7 @@
 * https://github.com/sthagen/microsoft-sarif-vscode-extension
 * https://github.com/sthagen/numpy-numpy
 * https://github.com/sthagen/pantsbuild-pex
+* https://github.com/sthagen/RoaringBitmap-CRoaring
 * https://github.com/sthagen/storybookjs-storybook
 * https://github.com/sthagen/tensorflow-tensorflow
 * https://github.com/sthagen/tokio-rs-tracing
