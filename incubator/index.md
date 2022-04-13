@@ -16,3 +16,7 @@
 * https://github.com/sthagen/aws-cloudformation-cfn-lint
 * https://github.com/sthagen/numpy-numpy
 * https://github.com/sthagen/microsoft-playwright
+* https://github.com/sthagen/huggingface-tokenizers
+* https://github.com/sthagen/aristocratos-btop
+* https://github.com/sthagen/mattermost-mattermost-server
+* https://github.com/sthagen/microsoft-sarif-vscode-extension
